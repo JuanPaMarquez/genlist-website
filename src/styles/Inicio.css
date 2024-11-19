@@ -1,7 +1,10 @@
 .espacio {
-  background: #0D2A3F;
   width: 100%;
   height: 82px;
+}
+
+.espacio, #welcome-section, #contacts{
+  background-color: #201E43;
 }
 
 nav {
@@ -12,13 +15,7 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  /* background-color: #0f17a8; */
-  background: linear-gradient(
-      150deg,
-      #2E91DD 10%, 
-      #287DBE 40%,
-      #21689E 60%
-  );
+  background-color: #508C9B;
   color: white;
   position: fixed;
   z-index: 1000;
@@ -96,7 +93,6 @@ nav > ul > li > a:hover {
   color: #daf1ff;
   display: flex;
   flex-direction: column;
-  background: #0D2A3F; /*#1B537F*/
   margin: 0;
   justify-content: center;
   align-items: center;
@@ -119,13 +115,7 @@ nav > ul > li > a:hover {
   font-size: 17px;
   padding: 0.8em 1.3em 0.8em 0.9em;
   color: white;
-  background: #ad5389;
-  background: linear-gradient(
-    150deg,
-    #2E91DD 10%, 
-    #287DBE 40%,
-    #21689E 60%
-  );
+  background: #134B70;
   border: none;
   letter-spacing: 0.05em;
   border-radius: 16px;

@@ -3,7 +3,6 @@
   margin: 0 auto;
   margin-top: 30px;
   padding: 1rem;
-  background-color: #0D2A3F;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -55,8 +54,12 @@
 }
 
 .links a {
-  color: #0D2A3F;
-  background-color: #35A6FD;
+  color: black;
+  background-color: #508C9B;
   border-radius: 10px;
   padding: 3px;
+}
+
+.links a i {
+  text-align: center;
 }
