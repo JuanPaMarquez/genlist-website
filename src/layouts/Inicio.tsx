@@ -34,8 +34,8 @@ function Inicio() {
       </nav>
       <main>
         <section id="welcome-section">
-          <h1>GenList Desktop</h1>
-          <a style={{textDecoration: "none"}} href="https://www.mediafire.com/file/at8455al0f910hz/GenlistApp.rar/file" target="_blank" rel="noopener noreferrer">
+          <h1>GenList Desktop App</h1>
+          <a style={{textDecoration: "none"}} href="https://www.mediafire.com/file/bflgrg0f2xlw2wq/inicio.rar/file" target="_blank" rel="noopener noreferrer">
             <button >
               <svg
                 height="24"
