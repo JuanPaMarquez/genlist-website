@@ -35,7 +35,7 @@ function Inicio() {
       <main>
         <section id="welcome-section">
           <h1>GenList Desktop App</h1>
-          <a style={{textDecoration: "none"}} href="https://www.mediafire.com/file/bflgrg0f2xlw2wq/inicio.rar/file" target="_blank" rel="noopener noreferrer">
+          <a style={{textDecoration: "none"}} href="https://download948.mediafire.com/958aaxv77srgbhH9msNFd96CDy7-fDeM3C84HPyrBfYlsBLkw_Zxrhg-m0Al60kR8Cn9Gjc4eqdtr97-6MgR8Ot5EhnRCahGsUpcsO2BGMUbu_YIcHlIMZFDElPArq3As2cJL6RzZ5gX7ETi0AdrctZnaJGzd5YvXpAnieylpstW/bflgrg0f2xlw2wq/inicio.rar" rel="noopener noreferrer">
             <button >
               <svg
                 height="24"
